@@ -1,17 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Ram Sundhar
 
-<!--
-**Ramsundhar-88/Ramsundhar-88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Full Stack Developer and UI/UX enthusiast currently pursuing B.Tech CSE (2nd Year).  
+I love blending logic with design — building apps that work great *and* feel great.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Snake animation (dark)](https://github.com/Ramsundhar-88/snk/blob/output/github-snake-dark.svg?raw=true)
+## 🐍 GitHub Snake Game Contribution Graph
+
+![Snake animation](https://github.com/Ramsundhar-88/snk/blob/output/github-contribution-grid-snake.svg)
+
+<!-- Optional dark mode version -->
+<!-- ![Snake animation (dark)](https://github.com/Ramsundhar-88/snk/blob/output/github-snake-dark.svg?raw=true) -->
+
+---
+
+## 🌐 Connect with me
+
+- Portfolio: [Ramsundhar](ramsundhar.vercel.app)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/ramsundhar-sadeswaran-588949156/)
+- Email: your.email@example.com
