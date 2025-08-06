@@ -7,7 +7,7 @@ I love blending logic with design — building apps that work great *and* feel g
 
 ## 🐍 GitHub Snake Game Contribution Graph
 
-![Snake animation]([https://github.com/Ramsundhar-88/snk](https://ramsundhar-88.github.io/snk/))
+![Snake animation](https://ramsundhar-88.github.io/snk/)
 
 <!-- Optional dark mode version -->
 <!-- ![Snake animation (dark)](https://github.com/Ramsundhar-88/snk/blob/output/github-snake-dark.svg?raw=true) -->
