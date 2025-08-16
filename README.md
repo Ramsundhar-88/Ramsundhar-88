@@ -20,4 +20,4 @@ I love blending logic with design — building apps that work great *and* feel g
 
 - Portfolio: [Ramsundhar](ramsundhar.vercel.app)
 - LinkedIn: [Linkedin](https://www.linkedin.com/in/ramsundhar-sadeswaran-588949156/)
-- Email: your.email@example.com
+- Email: ramsundhar.sades@gmail.com
