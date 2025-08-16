@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ram Sundhar
+# 👋 Hi, I'm Ramsundhar
 
 A passionate **Full Stack Developer** and **UI/UX enthusiast**, currently pursuing **B.Tech CSE (2nd Year)**.  
 I love blending logic with design — building apps that work great *and* feel great.  
