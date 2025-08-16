@@ -8,12 +8,12 @@ I love blending logic with design — building apps that work great *and* feel g
 ## 🐍 GitHub Snake Game Contribution Graph
 
 
-![Snake animation](https://platane.github.io/snk/)
+![Snake animation]( https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
 
 <!-- Optional dark mode version -->
 <!-- ![Snake animation (dark)](https://github.com/Ramsundhar-88/snk/output/github-contribution-grid-snake-dark.svg?raw=true) -->
-<!-- https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif -- >
+<!-- -- >
 
 ---
 
