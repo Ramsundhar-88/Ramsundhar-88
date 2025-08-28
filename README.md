@@ -46,11 +46,7 @@ I love blending logic with design — building apps that work great *and* feel g
 
 ---
 
-## 🐍 GitHub Snake Game Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
-
----
 
 ## 🌐 Connect with me
 
