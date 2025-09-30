@@ -38,6 +38,12 @@ I love blending logic with design — building apps that work great *and* feel g
 
 ## 📊 GitHub Stats
 
+![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramsundhar-88&show_icons=true&theme=radical&count_private=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramsundhar-88&layout=compact&theme=radical)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ramsundhar-88&theme=radical&hide_border=false)  
+
 
 ---
 
