@@ -24,3 +24,24 @@ When I’m not debugging, you’ll probably find me reorganizing my codebase (ag
 **Backend:** Node.js, Express, MongoDB, MySQL, PostgreSQL  
 **AI Integration:** OpenAI APIs, RAG Systems, ML Model Integration  
 **Tools:** Git, Postman, VS Code
+
+
+
+## 📊 GitHub Stats
+
+![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramsundhar-88&show_icons=true&theme=radical&count_private=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramsundhar-88&layout=compact&theme=radical)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ramsundhar-88&theme=radical&hide_border=false)  
+
+
+---
+
+
+
+## 🌐 Connect with me
+
+- Portfolio: [ramsundhar.vercel.app](https://ramsundhar.vercel.app)  
+- LinkedIn: [linkedin.com/in/ramsundhar-sadeswaran-588949156](https://www.linkedin.com/in/ramsundhar-sadeswaran-588949156/)  
+- Email: **ramsundhar.sades@gmail.com**
